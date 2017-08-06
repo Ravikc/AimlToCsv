@@ -1,0 +1,14 @@
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\bin\Debug\SavageScraper.exe.config
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\bin\Debug\SavageScraper.exe
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\bin\Debug\SavageScraper.pdb
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\MainWindow.g.cs
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\App.g.cs
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper_MarkupCompile.cache
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper_MarkupCompile.lref
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\MainWindow.baml
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper.g.resources
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper.Properties.Resources.resources
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper.csproj.GenerateResource.Cache
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper.exe
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper.pdb
+C:\Users\ravik\Documents\Visual Studio 2015\Projects\SavageScraper\SavageScraper\obj\Debug\SavageScraper.csprojResolveAssemblyReference.cache
